@@ -6,6 +6,11 @@
     background-color: #909090;
   }
   
+  div.opponent-1 {
+    background-color: #eee;
+    color: #444;
+  }
+  
   input ~ nav {
     background-color: rgba(144,144,144,0.9);
   }
