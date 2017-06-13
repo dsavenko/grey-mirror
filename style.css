@@ -17,6 +17,11 @@
     fill: #ff3333;
   }
   
+  .btn:hover {
+    background-color: #ff3333;
+    border-color: #ff3333;
+  }
+  
   input ~ nav {
     background-color: rgba(144,144,144,0.9);
   }
