@@ -4,11 +4,17 @@
   
   body, div.opponent-2 {
     background-color: #909090;
+    color: #eee;
   }
   
   div.opponent-1 {
     background-color: #eee;
     color: #444;
+  }
+  
+  a:hover {
+    color: #ff3333;
+    fill: #ff3333;
   }
   
   input ~ nav {
