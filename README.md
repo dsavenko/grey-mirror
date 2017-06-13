@@ -1,6 +1,6 @@
 # Grey Mirror
 
-Low contrast styles for Black Mirror
+Low contrast styles for [Black Mirror](http://bm.xored.com).
 
 ## Setup
 
