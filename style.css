@@ -22,6 +22,11 @@
     border-color: #ff3333;
   }
   
+  .btn {
+    background-color: #eee;
+    color: #444;
+  }
+  
   input ~ nav {
     background-color: rgba(144,144,144,0.9);
   }
