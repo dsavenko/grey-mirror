@@ -1,0 +1,13 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("bm.xored.com") {
+  
+  body, div.opponent-2 {
+    background-color: #909090;
+  }
+  
+  input ~ nav {
+    background-color: rgba(144,144,144,0.9);
+  }
+
+}
